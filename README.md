@@ -2,6 +2,10 @@
 
 This repository is an example docs website, built with VitePress.
 
+## Live Demo
+
+[Click here ↗](https://vitepress-docs-demo.vercel.app) to see a live demo.
+
 ## Usage
 
 Below is a simple guide on how to use this template.
