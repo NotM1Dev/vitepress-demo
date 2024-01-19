@@ -1,0 +1,20 @@
+# Dependencies
+node_modules
+
+# npm Cache
+.npm
+
+# Environment Variables
+**/*.env*
+!**/*.env.example*
+
+# VitePress
+**/.vitepress/cache
+**/.vitepress/dist
+
+# Logs
+**/logs
+**/*.log*
+
+# Other
+**/*.DS_Store*

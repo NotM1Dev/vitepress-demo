@@ -1,0 +1,23 @@
+{
+    "name": "@wlix/vitepress-demo",
+    "version": "0.0.0",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "vitepress dev pages",
+        "build": "vitepress build pages",
+        "serve": "vitepress serve pages"
+    },
+    "keywords": [
+        "vite",
+        "vitepress",
+        "documentation",
+        "docs",
+        "html",
+        "web"
+    ],
+    "author": "M1",
+    "license": "MIT",
+    "devDependencies": {
+        "vitepress": "1.0.0-rc.39"
+    }
+}
